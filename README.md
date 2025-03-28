@@ -12,19 +12,5 @@ Game: How to Play
 3. Make choices carefully—every action counts!
 
 
-      ////^\\\\
-      | ^   ^ |
-     @ (o) (o) @
-      |   <   |
-      |  ___  |
-       \_____/
-     ____|  |____
-    /    \__/    \
-   /              \
-  /\_/|        |\_/\
- / /  |        |  \ \
-( <   |        |   > )
- \ \  |        |  / /
-  \ \ |________| / /
-   \ \|
 
+   GOOD LUCK!!!
