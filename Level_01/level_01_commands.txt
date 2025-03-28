@@ -1,0 +1,15 @@
+Level 1: 
+You are in your house, searching for money.
+There are three doors to choose from: Door A, Door B, or Door C.
+You have two tries to pick the right door and find the money.
+Watch out for playful surprises behind the wrong doors!
+  _
+     _|=|__________
+    /              \
+   /                \
+  /__________________\
+   ||  || /--\ ||  ||
+   ||[]|| | .| ||[]||
+ ()||__||_|__|_||__||()
+( )|-|-|-|====|-|-|-|( ) 
+^^^^^^^^^^====^^^^^^^^^^^

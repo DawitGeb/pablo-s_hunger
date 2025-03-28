@@ -1,0 +1,3 @@
+Level 3: 
+You must choose between Downtown and The Beach.
+One location is safe, while the other might result in losing all your progress!
